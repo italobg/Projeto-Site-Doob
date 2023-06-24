@@ -1,0 +1,42 @@
+#textoinicial {
+    font-size: 50px;
+    color:rgb(36,68,140);
+    margin-left: 300px;
+}
+
+.botao-vermelho {
+    background-color: #fc3444 !important;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 40px;
+    color: #ffff;
+    margin: 20px;
+    margin-left: 300px;
+}
+
+.botao-azul {
+    text-decoration: none;
+    color: rgba(1, 1, 175, 0.829);
+
+}
+
+.textocinza {
+    margin: 20px;
+    margin-left: 300px;
+}
+
+#imagemfundo {
+    position: relative;
+}
+
+#imagemprincipal {
+    position: absolute;
+}
+
+.nav-brand {
+    margin: 20px;
+}
+
+.nav-link dropdown-toggle {
+    text-decoration-style: none;
+}
